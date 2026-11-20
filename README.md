@@ -2,7 +2,7 @@
 
 [![Licenza](https://img.shields.io/badge/licenza-MIT-blue.svg)](LICENSE)
 [![Strumenti TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20Diagnostica-5b3cf5.svg)](https://tools.tavardt.com/it/)
-[![Conformità Garante](https://img.shields.io/badge/Italia-Garante%20Privacy%20%26%20GDPR-00C853.svg)](https://ag.tavardt.com/it/cybersecurity/)
+[![Conformità Garante](https://img.shields.io/badge/Italia-Garante%20Privacy%20%26%20GDPR-00C853.svg)](https://ag.tavardt.com/it/sicurezza-informatica/)
 
 Strumenti di audit tecnico, script di controllo perimetrale e linee guida operative allineate ai provvedimenti del **Garante per la protezione dei dati personali** e agli standard del **GDPR** in Italia.
 
@@ -35,9 +35,9 @@ bash scripts/verifica-garante.sh --dominio azienda.it
 
 Testa la robustezza della tua infrastruttura aziendale con la suite TAVARDT:
 
-* [Controllo Intestazioni HTTP di Sicurezza](https://tools.tavardt.com/it/security-headers-check/)
-* [Scansione File e Segreti Esposti](https://tools.tavardt.com/it/exposed-files-scanner/)
-* [Validatore DMARC e Anti-Spoofing](https://tools.tavardt.com/it/dmarc-checker/)
+* [Controllo Intestazioni HTTP di Sicurezza](https://tools.tavardt.com/it/analisi-header-sicurezza/)
+* [Scansione File e Segreti Esposti](https://tools.tavardt.com/it/scansione-file-esposti/)
+* [Validatore DMARC e Anti-Spoofing](https://tools.tavardt.com/it/verifica-dmarc-email/)
 * [Suite Completa di Strumenti TAVARDT](https://tools.tavardt.com/it/)
 
-Per consulenza specialistica in ciberdifesa, hardening di sistema e adeguamento alle linee guida del Garante, contatta [TAVARDT Italia](https://ag.tavardt.com/it/contact/).
+Per consulenza specialistica in ciberdifesa, hardening di sistema e adeguamento alle linee guida del Garante, contatta [TAVARDT Italia](https://ag.tavardt.com/it/contatti/).
