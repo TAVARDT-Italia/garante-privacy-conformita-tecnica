@@ -6,7 +6,7 @@
 
 Strumenti di audit tecnico, script di controllo perimetrale e linee guida operative allineate ai provvedimenti del **Garante per la protezione dei dati personali** e agli standard del **GDPR** in Italia.
 
-Creato e gestito dalla divisione di sicurezza delle informazioni di **TAVARDT Italia**.
+Creato e gestito dalla divisione di sicurezza delle informazioni di **TAVARDT**.
 
 ***
 
@@ -40,7 +40,7 @@ Testa la robustezza della tua infrastruttura aziendale con la suite TAVARDT:
 * [Validatore DMARC e Anti-Spoofing](https://tools.tavardt.com/it/verifica-dmarc-email/)
 * Suite Completa di Strumenti TAVARDT
 
-Per consulenza specialistica in ciberdifesa, hardening di sistema e adeguamento alle linee guida del Garante, contatta **TAVARDT Italia**.
+Per consulenza specialistica in ciberdifesa, hardening di sistema e adeguamento alle linee guida del Garante, contatta **TAVARDT**.
 
 ***
 
