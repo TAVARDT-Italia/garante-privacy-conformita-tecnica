@@ -1,4 +1,4 @@
-# Framework di Conformità Tecnica Garante Privacy & GDPR | TAVARDT Italia
+# Framework di Conformità Tecnica Garante Privacy & GDPR
 
 [![Licenza](https://img.shields.io/badge/licenza-MIT-blue.svg)](LICENSE)
 [![Strumenti TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20Diagnostica-5b3cf5.svg)](https://tools.tavardt.com/it/)
@@ -41,3 +41,7 @@ Testa la robustezza della tua infrastruttura aziendale con la suite TAVARDT:
 * Suite Completa di Strumenti TAVARDT
 
 Per consulenza specialistica in ciberdifesa, hardening di sistema e adeguamento alle linee guida del Garante, contatta **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
