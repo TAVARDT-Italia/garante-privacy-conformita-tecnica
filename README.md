@@ -1,5 +1,6 @@
 # Framework di Conformità Tecnica Garante Privacy & GDPR
 
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Licenza](https://img.shields.io/badge/licenza-MIT-blue.svg)](LICENSE)
 [![Strumenti TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20Diagnostica-5b3cf5.svg)](https://tools.tavardt.com/it/)
 [![Conformità Garante](https://img.shields.io/badge/Italia-Garante%20Privacy%20%26%20GDPR-00C853.svg)](https://ag.tavardt.com/it/sicurezza-informatica/)
