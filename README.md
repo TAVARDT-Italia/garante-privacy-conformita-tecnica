@@ -1,9 +1,8 @@
 # Framework di Conformità Tecnica Garante Privacy & GDPR
 
-[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
-[![Licenza](https://img.shields.io/badge/licenza-MIT-blue.svg)](LICENSE)
 [![Strumenti TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20Diagnostica-5b3cf5.svg)](https://tools.tavardt.com/it/)
 [![Conformità Garante](https://img.shields.io/badge/Italia-Garante%20Privacy%20%26%20GDPR-00C853.svg)](https://ag.tavardt.com/it/sicurezza-informatica/)
+[![Licenza](https://img.shields.io/badge/licenza-MIT-blue.svg)](LICENSE)
 
 Strumenti di audit tecnico, script di controllo perimetrale e linee guida operative allineate ai provvedimenti del **Garante per la protezione dei dati personali** e agli standard del **GDPR** in Italia.
 
@@ -39,7 +38,6 @@ Testa la robustezza della tua infrastruttura aziendale con la suite TAVARDT:
 * [Controllo Intestazioni HTTP di Sicurezza](https://tools.tavardt.com/it/analisi-header-sicurezza/)
 * [Scansione File e Segreti Esposti](https://tools.tavardt.com/it/scansione-file-esposti/)
 * [Validatore DMARC e Anti-Spoofing](https://tools.tavardt.com/it/verifica-dmarc-email/)
-* Suite Completa di Strumenti TAVARDT
 
 Per consulenza specialistica in ciberdifesa, hardening di sistema e adeguamento alle linee guida del Garante, contatta **TAVARDT**.
 
