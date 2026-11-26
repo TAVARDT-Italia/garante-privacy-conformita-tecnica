@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/it/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Framework di Conformità Tecnica Garante Privacy & GDPR
 
 [![Strumenti TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20Diagnostica-5b3cf5.svg)](https://tools.tavardt.com/it/)
